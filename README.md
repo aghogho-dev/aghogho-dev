@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
-
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer with experience in building scalable applications using modern technologies.
 
 ## 🚀 Skills and Technologies
