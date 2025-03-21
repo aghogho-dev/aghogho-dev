@@ -35,8 +35,8 @@ A JavaScript-based project to display proficiency in front-end development.
 A JavaScript-based project to show proficiency in front-end development.
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aghogho-dev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aghogho-deve&layout=compact&theme=radical)
 
 ---
 
