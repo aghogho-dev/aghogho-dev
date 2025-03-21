@@ -15,24 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm a passionate Fullstack Developer with experience in building scalable applications using modern technologies.
+Welcome to my GitHub profile! I'm a passionate and dedicated Fullstack Developer experiencied in developing high-performanced applications. My academic background in software development and financial engineering, combined with my practical experience in data science and machine learning, enables me to create reliable and scalable solutions. I am proficient in Python, JavaScript, and C#.
 
 ## 🚀 Skills and Technologies
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** FastAPI, Node.js, Express.js  
-- **Databases:** MongoDB (Atlas), PostgreSQL  
-- **Tools & DevOps:** Docker, Git, pnpm  
-- **Other:** Selenium, Genetic Algorithms, Web Scraping  
+- **Frontend:** Angular, Next.js, Tailwind CSS  
+- **Backend:** FastAPI, Node.js, Express.js,   
+- **Databases:** MongoDB, PostgreSQL, MySQL, SQLite  
+- **Tools & DevOps:** Docker, Git, Postman, Jira, Selenium, Swagger
+- **Other:** GitHub Actions, Genetic Algorithms, Web Scraping  
 
 ## 🛠️ Projects and Work
-### 🔹 [Genetic Algorithm Optimizer](https://github.com/your-username/genetic-algorithm)
-A Python-based genetic algorithm project optimizing complex problems.
+### 🔹 [Movies and TV Shows](https://aghogho-dev.github.io/CSE330-Project/)
+A JavaScript-based project to search for shows and movies.
 
-### 🔹 [Fullstack Medical Platform](https://github.com/your-username/billimd-clone)
-A clone of a medical platform using FastAPI, MongoDB Atlas, and React.
+### 🔹 [The Crystal Restaurant](https://aghogho-dev.github.io/wdd131/crystal/)
+A JavaScript-based project to display proficiency in front-end development.
 
-### 🔹 [Web Scraper for JavaScript Websites](https://github.com/your-username/web-scraper)
-A Selenium-based scraper that extracts data from dynamic JavaScript-rendered sites.
+### 🔹 [The PortHarcourt Chambers of Commerce](https://aghogho-dev.github.io/wdd231/chamber/)
+A JavaScript-based project to show proficiency in front-end development.
 
 ## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
