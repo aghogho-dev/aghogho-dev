@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I'm a passionate and dedicated Fullstack Developer experiencied in developing high-performanced applications. My academic background in software development and financial engineering, combined with my practical experience in data science and machine learning, enables me to create reliable and scalable solutions. I am proficient in Python, JavaScript, and C#.
 
 ## 🚀 Skills and Technologies
-- **Frontend:** Angular, Next.js, Tailwind CSS  
-- **Backend:** FastAPI, Node.js, Express.js,   
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** FastAPI, Node.js, Express.js, Django, Firebase
 - **Databases:** MongoDB, PostgreSQL, MySQL, SQLite  
-- **Tools & DevOps:** Docker, Git, Postman, Jira, Selenium, Swagger
-- **Other:** GitHub Actions, Genetic Algorithms, Web Scraping  
+- **Tools & DevOps:** Docker, Git, Postman, Jira, Selenium, Swagger, AWS Lambda, AWS Bedrock, AWS SNS, AWS SAM
+- **Other:** GitHub Actions, Genetic Algorithms, Web Scraping, Machine Learning, Data Science  
 
 ## 🛠️ Projects and Work
 ### 🔹 [Movies and TV Shows](https://aghogho-dev.github.io/CSE330-Project/)
