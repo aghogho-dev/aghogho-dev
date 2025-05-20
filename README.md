@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Fullstack Developer experiencied in developing high-performanced applications. My academic background in software development and financial engineering, combined with my practical experience in data science and machine learning, enables me to create reliable and scalable solutions. I am proficient in Python, JavaScript, and C#.
+Welcome to my GitHub profile! I'm a passionate and dedicated Fullstack Developer experiencied in developing high-performant applications. My academic background in software development and financial engineering, combined with my practical experience in data science and machine learning, enables me to create reliable and scalable solutions. I am proficient in Python, JavaScript, and C#.
 
 ## 🚀 Skills and Technologies
 - **Frontend:** React, Next.js, Tailwind CSS  
